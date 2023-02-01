@@ -1,0 +1,13 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: Spring Boot Course api
+#    version: @project.version@
+#    description: @project.description@
+#
+
+# these are configuration for allow spring actuator endpoints
+#management.endpoints.web:
+#  exposure.include: "*"
+#  base-path: /
